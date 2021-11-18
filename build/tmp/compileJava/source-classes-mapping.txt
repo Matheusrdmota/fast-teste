@@ -1,0 +1,4 @@
+analisador/AnalisadorDePresenca.java
+ analisador.AnalisadorDePresenca
+Main.java
+ Main
